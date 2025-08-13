@@ -59,3 +59,6 @@ tmp/
 TP/venv/  # If you keep the virtual environment in TP/
 *.log
 *.prof  # Profiling output files (e.g., from cProfile)
+
+# XML
+repomix-output.xml
